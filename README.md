@@ -15,6 +15,6 @@ I’m passionate about astronomy, physics, and data science, and I'm eager to ap
 💬 Let's talk about...
 - Astrophysics & cosmology
 - Data visualization & analysis
-- My research on galaxy evolution <br>
-      
-- 📫 How to reach me: fraley.a@ufl.edu & [LinkedIn](https://www.linkedin.com/in/austin-fraley-429647344/)
+- My research on galaxy evolution 
+
+📫 How to reach me: fraley.a@ufl.edu & [LinkedIn](https://www.linkedin.com/in/austin-fraley-429647344/)
