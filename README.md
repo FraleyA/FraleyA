@@ -1,7 +1,6 @@
 ## Hello there! 👋
 
-<!--
-**FraleyA/FraleyA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**FraleyA/FraleyA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 My name is Austin, and I'm a University of Florida alumnus with a double major in physics and astronomy.
 I've been involved in research since my second year at UF, focusing on galaxy morphology and how the visibility of merger features evolves over time. 
