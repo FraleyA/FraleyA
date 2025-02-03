@@ -7,15 +7,14 @@ I've been involved in research since my second year at UF, focusing on galaxy mo
 Currently, I'm analyzing the timescale on which merger features remain visible by studying morphological parameters like the Gini coefficient and M20.
 I’m passionate about astronomy, physics, and data science, and I'm eager to apply my skills to real-world problems!
 
-- 🔭 What I'm working on: 
-      - Developing a repository for analyzing merger features in the IllustrisTNG cosmological simulation.
-      - Exploring how morphological parameters change during galaxy mergers.
-      - Learning SQL to expand my knowledge on database querying, and data management.
+🔭 What I'm working on: 
+- Developing a repository for analyzing merger features in the IllustrisTNG cosmological simulation.
+- Exploring how morphological parameters change during galaxy mergers.
+- Learning SQL to expand my knowledge on database querying, and data management.
+
+💬 Let's talk about...
+- Astrophysics & cosmology
+- Data visualization & analysis
+- My research on galaxy evolution
       
-- 💬 Ask me about astronomy, physics and my research!
-      - Astrophysics & cosmology
-      - Data visualization & analysis
-      - My research on galaxy evolution
-      
-- 📫 How to reach me: fraley.a@ufl.edu
-- [LinkedIn](https://www.linkedin.com/in/austin-fraley-429647344/)
+- 📫 How to reach me: fraley.a@ufl.edu & [LinkedIn](https://www.linkedin.com/in/austin-fraley-429647344/)
