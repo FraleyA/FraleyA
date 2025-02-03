@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hello there! 👋
 
 <!--
 **FraleyA/FraleyA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+My name is Austin, and I'm a University of Florida alumnus with a double major in physics and astronomy.
+I've been involved in research since my second year at UF, focusing on galaxy morphology and how the visibility of merger features evolves over time. 
+Currently, I'm analyzing the timescale on which merger features remain visible by studying morphological parameters like the Gini coefficient and M20.
+I’m passionate about astronomy, physics, and data science, and I'm eager to apply my skills to real-world problems!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 What I'm working on: 
+      - Developing a repository for analyzing merger features in the IllustrisTNG cosmological simulation.
+      - Exploring how morphological parameters change during galaxy mergers.
+      - Learning SQL to expand my knowledge on database querying, and data management.
+      
+- 💬 Ask me about astronomy, physics and my research!
+      - Astrophysics & cosmology
+      - Data visualization & analysis
+      - My research on galaxy evolution
+      
+- 📫 How to reach me: fraley.a@ufl.edu
+- [LinkedIn](https://www.linkedin.com/in/austin-fraley-429647344/)
